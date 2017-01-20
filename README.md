@@ -1,28 +1,24 @@
-# 10 канальный пиропульт на Ардуино и модулях nRF24L01
+# Радиоуправляемая ракетная турель с FPV
 
 ## Папки
 
 **RF24-master** - библиотека для модуля связи, установить в C:\Program Files\Arduino\libraries
   
-**Без обратной связи** - пиропульт без обратной связи, для тех у кого не работает обратная
+**Скетч** - прошивка для Ардуино
   
-- **pyroRX** - скетч ПРИЁМНИКА (receiver)
-- **pyroTX** - скетч ПЕРЕДАТЧИКА (transmitter)
+- **RX** - скетч ПРИЁМНИКА (receiver)
+- **TX** - скетч ПЕРЕДАТЧИКА (transmitter)
 
-**С обратной связью** - пиропульт со встроенным тестером аккумулятора и обратной связью с пультом
-  
-- **pyroRX** - скетч ПРИЁМНИКА (receiver)
-- **pyroTX** - скетч ПЕРЕДАТЧИКА (transmitter)
 
 ## Схема подключения
-![ПЕРЕДАТЧИК](https://github.com/AlexGyver/Remote_pyro_control/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D1%8B/TX_bb.jpg)
+![ПЕРЕДАТЧИК](https://github.com/AlexGyver/RC_Turrel/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D1%8B/TX_bb.png)
 
-![ПРИЁМНИК](https://github.com/AlexGyver/Remote_pyro_control/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D1%8B/RX_bb.jpg)
+![ПРИЁМНИК](https://github.com/AlexGyver/RC_Turrel/blob/master/%D0%A1%D1%85%D0%B5%D0%BC%D1%8B/RX_bb.png)
 
 ## Видео по теме
-Старая версия самодельного детонатора:
+Самодельный 10 канальный радиопульт:
 
-* ► https://youtu.be/CV0p9t0wjMk
+* ► https://youtu.be/5_aj6sMGQtM
 
 Мои полезные видео про радио модуль nRF24L01
 
@@ -30,7 +26,7 @@
 * ► https://youtu.be/p0v2vSmajx8
 
 ##  Материалы и компоненты
-Всё указанное ниже можно найти здесь
+Почти всё указанное ниже можно найти здесь
 http://alexgyver.ru/arduino_shop/
 
 * Arduino NANO 2 шт. http://ali.pub/uxbqf
@@ -42,15 +38,12 @@ http://alexgyver.ru/arduino_shop/
 
 * Акумы на выбор, 2шт. http://alexgyver.ru/18650/
 * Холдер под 18650 2 шт. http://ali.pub/0jumn
-* Модуль повыш. до 5В 2 шт. http://ali.pub/m86vt
-* Модуль защиты акума http://ali.pub/ed0cn
+* Модуль повыш. до 5В 1 шт. http://ali.pub/m86vt
 
-* Клавиатура 4х3 мембр. http://ali.pub/h0inr
-* Клавиатура 4х3 механ. http://ali.pub/xv3yd
 * Светодиодов пачка http://ali.pub/cgqui
 * Резисторов пачка http://ali.pub/9suk0
-* Выключатели http://ali.pub/z7h89
-* Корпус как на видео http://ali.pub/cd8sj
+* Тумблеры http://ali.pub/iv1p0
+* Джойстик http://ali.pub/96qlf
 
 * Макетки как на видео http://ali.pub/v0rxe
 * Мосфеты 10 шт. http://ali.pub/s58ow
@@ -58,6 +51,13 @@ http://alexgyver.ru/arduino_shop/
 * Клеммник пружинный! http://ali.pub/weq63
 * Провод из видео (1 мм) http://ali.pub/45sw9
 * Провод всех размеров, кусачки, припой, паяльники и куча всего для пайки http://alexgyver.ru/all-for-soldering/
+* Серво обычная http://ali.pub/crigl
+* Серво постоянного вращения http://ali.pub/90qsn
+
+* FPV дисплей http://ali.pub/ihw4c
+* Камера 3 в 1 http://ali.pub/b32a1
+* Приёмник http://ali.pub/mrwo9
+* Акум http://ali.pub/u53i8
 
 ## Вам также пригодится 
 * Всё для пайки http://alexgyver.ru/all-for-soldering/
