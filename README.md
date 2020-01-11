@@ -29,35 +29,32 @@
 Почти всё указанное ниже можно найти здесь
 http://alexgyver.ru/arduino_shop/
 
-* Arduino NANO 2 шт. http://ali.pub/uxbqf
-
-* Модуль связи мощный 2 шт. http://ali.pub/2cmut
-* Или модуль связи мини 2 шт. http://ali.pub/m52a7
-* Адаптер питания 2 шт. http://ali.pub/ynf1u
-* Или такой 2 шт. http://ali.pub/uy67g
-
-* Акумы на выбор, 2шт. http://alexgyver.ru/18650/
-* Холдер под 18650 2 шт. http://ali.pub/0jumn
-* Модуль повыш. до 5В 1 шт. http://ali.pub/m86vt
-
-* Светодиодов пачка http://ali.pub/cgqui
-* Резисторов пачка http://ali.pub/9suk0
-* Тумблеры http://ali.pub/iv1p0
-* Джойстик http://ali.pub/96qlf
-
-* Макетки как на видео http://ali.pub/v0rxe
-* Мосфеты 10 шт. http://ali.pub/s58ow
-* Резисторы 100 Ом http://ali.pub/u4jqh
-* Клеммник пружинный! http://ali.pub/weq63
-* Провод из видео (1 мм) http://ali.pub/45sw9
-* Провод всех размеров, кусачки, припой, паяльники и куча всего для пайки http://alexgyver.ru/all-for-soldering/
-* Серво обычная http://ali.pub/crigl
-* Серво постоянного вращения http://ali.pub/90qsn
-
-* FPV дисплей http://ali.pub/ihw4c
-* Камера 3 в 1 http://ali.pub/b32a1
-* Приёмник http://ali.pub/mrwo9
-* Акум http://ali.pub/u53i8
+* Arduino NANO 328p – искать
+* https://ali.ski/tI7blh
+* https://ali.ski/O4yTxb
+* https://ali.ski/6_rFIS
+* https://ali.ski/gb92E-
+* Модуль мощный и слабый https://ali.ski/uHuZhu
+* Адаптер питания 2 шт. https://ali.ski/ive0p
+* Акумы на выбор, 2шт. https://alexgyver.ru/18650/
+* Холдер под 18650 2 шт. https://ali.ski/LXzk4N
+* Модуль повыш. до 5В 1 шт. https://ali.ski/iXNGMX
+* Светодиодов пачка https://ali.ski/uYup8c
+* Резисторов пачка https://ali.ski/u51lTK
+* Тумблеры https://ali.ski/y6BtJ6
+* Джойстик https://ali.ski/MolLwe
+* Макетки как на видео https://ali.ski/VNuyr
+* Мосфеты 10 шт. https://ali.ski/Jb_sz
+* Набор резисторов https://ali.ski/Pajn-
+* Клеммник пружинный! https://ali.ski/HzRV3
+* Провод из видео (1 мм) https://ali.ski/zfDUp
+* Провод всех размеров, кусачки, припой, паяльники и куча всего для пайки https://alexgyver.ru/all-for-soldering/
+* Серво https://ali.ski/gNhzU
+* Серво постоянного вращения https://ali.ski/UQonbJ
+* FPV дисплей https://ali.ski/9HhYY
+* Камера 3 в 1 https://ali.ski/yQDer
+* Приёмник https://ali.ski/0P_Li
+* Акум https://ali.ski/11ANjz
 
 ## Вам также пригодится 
 * Всё для пайки http://alexgyver.ru/all-for-soldering/
