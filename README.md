@@ -30,31 +30,31 @@
 http://alexgyver.ru/arduino_shop/
 
 * Arduino NANO 328p – искать
-* https://ali.ski/tI7blh
-* https://ali.ski/O4yTxb
-* https://ali.ski/6_rFIS
-* https://ali.ski/gb92E-
-* Модуль мощный и слабый https://ali.ski/uHuZhu
-* Адаптер питания 2 шт. https://ali.ski/ive0p
+* https://ali.ski/YkCKU
+* https://ali.ski/3lWwY1
+* https://ali.ski/gNSbFC
+* https://ali.ski/X_Frt
+* Модуль мощный и слабый https://ali.ski/-Woyp
+* Адаптер питания 2 шт. https://ali.ski/6-p17s
 * Акумы на выбор, 2шт. https://alexgyver.ru/18650/
-* Холдер под 18650 2 шт. https://ali.ski/LXzk4N
-* Модуль повыш. до 5В 1 шт. https://ali.ski/iXNGMX
-* Светодиодов пачка https://ali.ski/uYup8c
-* Резисторов пачка https://ali.ski/u51lTK
-* Тумблеры https://ali.ski/y6BtJ6
-* Джойстик https://ali.ski/MolLwe
-* Макетки как на видео https://ali.ski/VNuyr
-* Мосфеты 10 шт. https://ali.ski/Jb_sz
-* Набор резисторов https://ali.ski/Pajn-
-* Клеммник пружинный! https://ali.ski/HzRV3
-* Провод из видео (1 мм) https://ali.ski/zfDUp
+* Холдер под 18650 2 шт. https://ali.ski/SBNvV
+* Модуль повыш. до 5В 1 шт. https://ali.ski/kdZiz
+* Светодиодов пачка https://ali.ski/YRmG5q
+* Резисторов пачка https://ali.ski/k3Gg_
+* Тумблеры https://ali.ski/yCCva2
+* Джойстик https://ali.ski/VzCio-
+* Макетки как на видео https://ali.ski/3VDan
+* Мосфеты 10 шт. https://ali.ski/O88rE5
+* Набор резисторов https://ali.ski/cI7H4
+* Клеммник пружинный! https://ali.ski/3ub0i
+* Провод из видео (1 мм) https://ali.ski/2vo_jY
 * Провод всех размеров, кусачки, припой, паяльники и куча всего для пайки https://alexgyver.ru/all-for-soldering/
-* Серво https://ali.ski/gNhzU
-* Серво постоянного вращения https://ali.ski/UQonbJ
-* FPV дисплей https://ali.ski/9HhYY
-* Камера 3 в 1 https://ali.ski/yQDer
-* Приёмник https://ali.ski/0P_Li
-* Акум https://ali.ski/11ANjz
+* Серво https://ali.ski/Wg6rxy
+* Серво постоянного вращения https://ali.ski/U6incg
+* FPV дисплей https://ali.ski/MKaK-
+* Камера 3 в 1 https://ali.ski/pZmFV0
+* Приёмник https://ali.ski/g-Ik2h
+* Акум https://ali.ski/ykLpcC
 
 ## Вам также пригодится 
 * Всё для пайки http://alexgyver.ru/all-for-soldering/
